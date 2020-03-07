@@ -3,4 +3,5 @@
     <string name="txView1">Escribe una frase: </string>
     <string name="textInput">Escribe aquí...</string>
     <string name="calculateButton">¡Calcular!</string>
+    <string name="twTotalVocals">          </string>
 </resources>
